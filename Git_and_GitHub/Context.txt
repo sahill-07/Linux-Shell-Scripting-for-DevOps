@@ -1,0 +1,1 @@
+This is a practice directory for learning branches in Git and GitHub

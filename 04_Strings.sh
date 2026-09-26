@@ -24,7 +24,7 @@ echo "String in Lower Case Characters is : ${str,,}"
 printf "\n Now replacing important with crucial"
 temp=${str/important/crucial}
 
-echo $temp
+echo "$temp"
 
 
 printf "\n Slicing a String "

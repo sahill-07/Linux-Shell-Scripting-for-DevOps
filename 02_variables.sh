@@ -16,10 +16,10 @@ a=10
 b=20
 
 
-<<cmt
-To access a variable use dollar ( $ ) and the variable name
-echo $variablename
-cmt
+#<<cmt
+#To access a variable use dollar ( $ ) and the variable name
+#echo $variablename
+#cmt
 
 
 echo $a $b

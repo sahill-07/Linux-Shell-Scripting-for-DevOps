@@ -1,1 +1,12 @@
-This is a practice directory for learning branches in Git and GitHub
+ls This is a practice directory for learning branches in Git and GitHub
+
+
+## GitHub Actions
+
+This repository uses GitHub Actions to automatically validate Shell Scripts.
+
+### Workflows
+
+- 🔍 ShellCheck — checks shell scripts for common issues
+- ✅ Bash Syntax Check — validates Bash syntax
+- 🧪 Automated Tests — runs testable scripts automatically

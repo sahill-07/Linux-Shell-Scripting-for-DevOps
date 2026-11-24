@@ -33,7 +33,7 @@ age="23"
 company="TCS"
 
 
-echo "Hello! I'm $name, my age is $age and I work in $company"
+echo "Hello! I'm $name, my age is $age and I work in $company and date is $(date)"
 
 
 #<<cmt
